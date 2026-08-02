@@ -1,2 +1,2 @@
-# F1ball.github.io
+# f1ball.github.io
 Nop
